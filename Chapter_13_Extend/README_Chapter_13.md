@@ -26,25 +26,26 @@ A sine wave sounds smooth, a square wave is harsh, and a triangle wave is somewh
 
 
 
-Draw to a PDF
-
-![example_13_5_draw_to_a_pdf]()
 
 Play a sample
 
-![example_13_1_play_a_sample]()
+![example_13_1_play_a_sample](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_13_Extend/example_13_1_play_a_sample/frames/SaveFrame_13_1_tog.png)
 
 Listen to a microphone
 
-![example_13_2_listen_to_a_microphone]()
+![example_13_2_listen_to_a_microphone](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_13_Extend/example_13_2_listen_to_a_microphone/frames/SaveFrame_13_2_tog.png)
 
 Create a sine wave
 
-![example_13_3_create_a_sine_wave]()
+![example_13_3_create_a_sine_wave](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_13_Extend/example_13_3_create_a_sine_wave/frames/SaveFrame_13_3_tog.png)
 
 Saving images
 
-![example_13_4_saving_images]()
+![example_13_4_saving_images](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_13_Extend/example_13_4_saving_images/frames/SaveFrame_13_4_tog.png)
+
+Draw to a PDF
+
+![example_13_5_draw_to_a_pdf](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_13_Extend/example_13_5_draw_to_a_pdf/frames/example_13_5_1_Ex-13-5.pdf)
 
 
 <br/>
