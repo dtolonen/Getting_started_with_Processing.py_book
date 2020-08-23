@@ -4,6 +4,8 @@
 <img src="https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/getting_started_with_processing.py.png" width="30%">
 
 
+- Please see each chapter's README.md file for examples.
+
 - Read the book: [Getting Started with Processing.py](https://www.makershed.com/products/getting-started-with-processing-py-pdf)
 
 - What is Processing? See [Hello Processing!](https://hello.processing.org) (note: this quick video tutorial uses the original Java syntax, not Python, but is similar enough to show off how Processing works)
