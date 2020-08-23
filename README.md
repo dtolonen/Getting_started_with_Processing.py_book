@@ -1,7 +1,7 @@
 ## Algorithmic design: examples and experiments from the book *Getting Started with Processing.py* by Allison Parrish, Ben Fry and Casey Reas.
 
 
-<img src="https://github.com/dtolonen/Getting_started_with_Processing.py_book_exercises/blob/master/getting_started_with_processing.py.png" width="30%">
+<img src="https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/getting_started_with_processing.py.png" width="30%">
 
 
 - Read the book: [Getting Started with Processing.py](https://www.makershed.com/products/getting-started-with-processing-py-pdf)
