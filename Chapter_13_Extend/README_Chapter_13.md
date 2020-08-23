@@ -45,7 +45,7 @@ Saving images
 
 Draw to a PDF
 
-![example_13_5_draw_to_a_pdf](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_13_Extend/example_13_5_draw_to_a_pdf/frames/example_13_5_1_Ex-13-5.pdf)
+[example_13_5_draw_to_a_pdf](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_13_Extend/example_13_5_draw_to_a_pdf/frames/example_13_5_1_Ex-13-5.pdf)
 
 
 <br/>
