@@ -47,54 +47,54 @@ def draw():
 
 Many variables
 
-![example_11_1_many_variables]()
+![example_11_1_many_variables](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_1_many_variables/frames/example_11_1_many_variables.png)
 
 Too many variables
 
-![example_11_2_too_many_variables]()
+![example_11_2_too_many_variables](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_2_too_many_variables/frames/example_11_2_too_many_variables.png)
 
 Lists, not variables
 
-![example_11_3_lists_not_variables]()
+![example_11_3_lists_not_variables](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_3_lists_not_variables/frames/example_11_3_lists_not_variables.png)
 
 Declare and append to a list
 
-![example_11_4_declare_and_append_to_a_list]()
+![example_11_4_declare_and_append_to_a_list](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_4_declare_and_append_to_a_list/frames/example_11_4_declare_and_append_to_a_list.png)
 
 Compact list initialization
 
-![example_11_5_compact_list_initialization]()
+![example_11_5_compact_list_initialization](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_5_compact_list_initialization/frames/example_11_5_compact_list_initialization.png)
 
 Revisiting the first exmaple
 
-![example_11_6_revisiting_the_first_example]()
+![example_11_6_revisiting_the_first_example](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_5_compact_list_initialization/frames/example_11_5_compact_list_initialization.png)
 
 Filling a list in for a loop
 
-![example_11_7_filling_a_list_in_for_a_loop]()
+![example_11_7_filling_a_list_in_for_a_loop](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_7_filling_a_list_in_for_a_loop/frames/example_11_7_filling_a_list_in_for_a_loop.png)
 
 Example 11_8 (no such example in book)
 
 
 Track mouse movements 
 
-![example_11_9_track_mouse_movements]()
+![example_11_9_track_mouse_movements](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_9_track_mouse_movements/frames/SaveFrame_11_9_tog.png)
 
 Managing many objects
 
-![example_11_10_managing_many_objects]()
+![example_11_10_managing_many_objects](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_10_managing_many_objects/frames/example_11_10_managing_many_objects.png)
 
 A new way to manage objects
 
-![example_11_11_a_new_way_to_manage_objects]()
+![example_11_11_a_new_way_to_manage_objects](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_11_a_new_way_to_manage_objects/frames/example_11_11_a_new_way_to_manage_objects.png)
 
 Sequence of images
 
-![example_11_12_sequence_of_images]()
+![example_11_12_sequence_of_images](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_12_sequence_of_images/frames/SaveFrame_11_12_tog_animation.gif)
 
 Robot 9: Lists
 
-![example_11_13_robot_9_lists]()
+![example_11_13_robot_9_lists](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_13_robot_9_lists/frames/example_11_13_robot_9_lists.png)
 
 
 <br/>
