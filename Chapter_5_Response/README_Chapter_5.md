@@ -38,91 +38,91 @@
 
 Draw function
 
-![example_5_1_draw_function ]()
+![example_5_1_draw_function ](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_1_draw_function/frames/example_5_1_draw_function.png)
 
 The setup() function
 
-![example_5_2_the_setup___function]()
+![example_5_2_the_setup___function](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_2_the_setup___function/frames/example_5-2_the_setup___function.png)
 
 Global variables
 
-![example_5_3_global_variables ]()
+![example_5_3_global_variables ](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_3_global_variables/frames/SaveExample-0001.png)
 
 Track the mouse
 
-![example_5_4_track_the_mouse]()
+![example_5_4_track_the_mouse](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_4_track_the_mouse/frames/SaveExample-0277.png)
 
 The dot follows you
 
-![example_5_5_the_dot_follows_you]()
+![example_5_5_the_dot_follows_you](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_5_the_dot_follows_you/frames/SaveExample-0365.png)
 
 Draw continuously 
 
-![example_5_6_draw_continuosly]()
+![example_5_6_draw_continuosly](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_6_draw_continuosly/frames/SaveExample-0195.png)
 
 Set the thickness on the fly
 
-![example_5_7_set_thickness_on_the_fly]()
+![example_5_7_set_thickness_on_the_fly](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_7_set_thickness_on_the_fly/frames/SaveExample-0331.png)
 
 Easing does it
 
-![example_5_8_easing_does_it]()
+![example_5_8_easing_does_it](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_8_easing_does_it/frames/SaveExample_5_8_tog.png)
 
 Smooth lines with easing
 
-![example_5_9_smooth_lines_with_easing]()
+![example_5_9_smooth_lines_with_easing](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_9_smooth_lines_with_easing/frames/SaveExample-0925.png)
 
 Click the mouse
 
-![example_5_10_click_the_mouse]()
+![example_5_10_click_the_mouse](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_10_click_the_mouse/frames/SaveExample-0336.png)
 
 Detect when not clicked
 
-![example_5_11_detect_when_not_clicked]()
+![example_5_11_detect_when_not_clicked](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_11_detect_when_not_clicked/frames/SaveExample-0001.png)
 
 Multiple mouse buttons
 
-![example_5_12_multiple_mouse_buttons]()
+![example_5_12_multiple_mouse_buttons](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_12_multiple_mouse_buttons/frames/SaveExample_5_12_tog.png)
 
 Find the cursor
 
-![example_5_13_find_the_cursor]()
+![example_5_13_find_the_cursor](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_13_find_the_cursor/frames/SaveExample_5_13_tog.png)
 
 The bounds of a circle
 
-![example_5_14_the_bounds_of_a_circle]()
+![example_5_14_the_bounds_of_a_circle](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_14_the_bounds_of_a_circle/frames/SaveExample_5_14_tog.png)
 
 The bounds of a rectangle 
 
-![example_5_15_the_bounds_of_a_rectangle]()
+![example_5_15_the_bounds_of_a_rectangle](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_15_the_bounds_of_a_rectangle/frames/SaveExample_5_15_tog.png)
 
 Tap a key
 
-![example_5_16_tap_a_key]()
+![example_5_16_tap_a_key](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_16_tap_a_key/frames/SaveExample_5_16_tog.png)
 
 Draw some letters 
 
-![example_5_17_draw_some_letters]()
+![example_5_17_draw_some_letters](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_17_draw_some_letters/frames/SaveExample-0289.png)
 
 Check for specific keys
 
-![example_5_18_check_for_specific_keys]()
+![example_5_18_check_for_specific_keys](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_18_check_for_specific_keys/frames/SaveExample_5_18_tog.png)
 
 Move with arrow keys
 
-![example_5_19_move_with_arrow_keys]()
+![example_5_19_move_with_arrow_keys](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_19_move_with_arrow_keys/frames/SaveExample_5_19_tog.png)
 
 Map values to a range
 
-![example_5_20_map_values_to_a_range]()
+![example_5_20_map_values_to_a_range](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_20_map_values_to_a_range/frames/SaveExample_5_20_tog.png)
 
 Map with the map() function
 
-![example_5_21_map_with_the_map___function]()
+![example_5_21_map_with_the_map___function](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_21_map_with_the_map___function/frames/SaveExample_5_21_tog.png)
 
 Robot 3: response
 
-![example_5_22_robot_3_response]()
+![example_5_22_robot_3_response](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/example_5_22_robot_3_response/frames/SaveExample_5_22_tog.gif)
 
 
 <br/>
