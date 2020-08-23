@@ -5,7 +5,7 @@
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
 
-  
+
 - size()
 - arc()
 - line()
