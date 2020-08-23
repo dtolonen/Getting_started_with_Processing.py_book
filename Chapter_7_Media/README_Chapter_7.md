@@ -25,51 +25,51 @@
 
 Load an image
 
-![example_7_1_load_an_image]()
+![example_7_1_load_an_image](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_1_load_an_image/frames/SaveExample-0156.png)
 
 Load more images
 
-![example_7_2_load_more_images]()
+![example_7_2_load_more_images](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_2_load_more_images/frames/SaveExample_7_2_tog.png)
 
 Mousing around with an image
 
-![example_7_3_mousing_around_with_an_image]()
+![example_7_3_mousing_around_with_an_image](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_3_mousing_around_with_an_image/frames/SaveExample_7_3_tog.png)
 
 Transparency with a GIF
 
-![example_7_4_transparency_with_a_gif]()
+![example_7_4_transparency_with_a_gif](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_4_transparency_with_a_gif/frames/SaveExample_7_4_tog.png)
 
 Transparency with a PNG
 
-![example_7_5_transparency_with_a_png]()
+![example_7_5_transparency_with_a_png](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_5_transparency_with_a_png/frames/SaveExample_7_5_tog.png)
 
 Drawing with fonts
 
-![example_7_6_drawing_with_fonts]()
+![example_7_6_drawing_with_fonts](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_6_drawing_with_fonts/frames/SaveExample-0039.png)
 
 Draw a box
 
-![example_7_7_draw_a_box]()
+![example_7_7_draw_a_box](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_7_draw_a_box/frames/SaveExample-0152.png)
 
 Store text in a string
 
-![example_7_8_store_text_in_a_string]()
+![example_7_8_store_text_in_a_string](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_8_store_text_in_a_string/frames/SaveExample-0056.png)
 
 Draw with shapes
 
-![example_7_9_draw_with_shapes]()
+![example_7_9_draw_with_shapes](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_9_draw_with_shapes/frames/SaveExample-0200.png)
 
 Scaling shapes
 
-![example_7_10_scaling_shapes]()
+![example_7_10_scaling_shapes](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_10_scaling_shapes/frames/SaveExample_7_10_tog.png)
 
 Creaing a new shape
 
-![example_7_11_creating_a_new_shape]()
+![example_7_11_creating_a_new_shape](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_11_creating_a_new_shape/frames/SaveExample-0138.png)
 
 Robot 5: Media
 
-![example_7_12_robot_5_media]()
+![example_7_12_robot_5_media](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_12_robot_5_media/frames/SaveExample_7_12_tog.png)
 
 
 <br/>
