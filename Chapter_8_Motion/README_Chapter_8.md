@@ -27,67 +27,67 @@
 
 See the framerate
 
-![example_8_1_see_the_framerate]()
+![example_8_1_see_the_framerate](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_1_see_the_framerate/frames/example_8_1_see_the_framerate.png)
 
 Set the framerate
 
-![example_8_2_set_the_framerate]()
+![example_8_2_set_the_framerate](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_2_set_the_framerate/frames/example_8_2_set_the_framerate.png)
 
 Move a shape
 
-![example_8_3_move_a_shape]()
+![example_8_3_move_a_shape](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_3_move_a_shape/frames/SaveExample-0231.png)
 
 Wrap around
 
-![example_8_4_wrap_around]()
+![example_8_4_wrap_around](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_4_wrap_around/frames/SaveExample_8_4_tog.png)
 
 Bounce off the wall
 
-![example_8_5_bounce_off_the_wall]()
+![example_8_5_bounce_off_the_wall](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_5_bounce_off_the_wall/frames/example_8_5_bounce_off_the_wall.png)
 
 Calculate tween positions
 
-![example_8_6_calculate_tween_positions]()
+![example_8_6_calculate_tween_positions](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_6_calculate_tween_positions/frames/example_8_6_calculate_tween_positions.png)
 
 Generate random values
 
-![example_8_7_generate_random_values]()
+![example_8_7_generate_random_values](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_7_generate_random_values/frames/example_8_7_generate_random_values.png)
 
 Draw randomly
 
-![example_8_8_draw_randomly]()
+![example_8_8_draw_randomly](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_8_draw_randomly/frames/example_8_8_draw_randomly.png)
 
 Move shapes randomly
 
-![example_8_9_move_shapes_randomly]()
+![example_8_9_move_shapes_randomly](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_9_move_shapes_randomly/frames/example_8_9_move_shapes_randomly.png)
 
 Time passes
 
-![example_8_10_time_passes]()
+![example_8_10_time_passes](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_10_time_passes/frames/example_8_10_time_passes.png)
 
 Triggering timed events
 
-![example_8_11_triggering_timed_events]()
+![example_8_11_triggering_timed_events](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_11_triggering_timed_events/frames/example_8_11_triggering_timed_events.png)
 
 Sine wave values
 
-![example_8_12_sine_wave_values]()
+![example_8_12_sine_wave_values](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_12_sine_wave_values/frames/SaveExample_8_12_tog.png)
 
 Sine wave values
 
-![example_8_13_sine_value_movement]()
+![example_8_13_sine_value_movement](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_13_sine_value_movement/frames/SaveExample_8_13_tog.png)
 
 Circular motion
 
-![example_8_14_circular_motion]()
+![example_8_14_circular_motion](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_14_circular_motion/frames/SaveExample_8_14_tog.png)
 
 Spirals
 
-![example_8_15_spirals]()
+![example_8_15_spirals](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_15_spirals/frames/SaveExample_8_15_tog.png)
 
 Robot 6: Motion
 
-![example_8_16_robot_6_motion]()
+![example_8_16_robot_6_motion](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_8_Motion/example_8_16_robot_6_motion/frames/example_8_16_robot_6_motion.png)
 
 
 
