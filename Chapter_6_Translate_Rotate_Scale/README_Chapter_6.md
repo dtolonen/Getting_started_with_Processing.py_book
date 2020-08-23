@@ -1,4 +1,6 @@
+
 ## Chapter 6 / Translate, Rotate, Scale
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -18,45 +20,59 @@
 </details>
 
 
-## Book examples
+<br/>
+
+**Book examples**
 
 
-### Translating location
+
+Translating location
+
 ![example_6_1_translating_location]()
 
-### Multiple translations
+Multiple translations
+
 ![example_6_2_multiple_translations]()
 
-### Corner rotation
+Corner rotation
+
 ![example_6_3_corner_rotation]()
 
-### Center rotation
+Center rotation
+
 ![example_6_4_center_rotation]()
 
-### Translation, then rotation 
+Translation, then rotation 
+
 ![example_6_5_translation_then_rotation]()
 
-### Rotation, then translation
+Rotation, then translation
+
 ![example_6_6_rotation_then_translation]()
 
-### An articulating arm
+An articulating arm
+
 ![example_6_7_an_articulating_arm]()
 
-### Scaling
+Scaling
+
 ![example_6_8_scaling]()
 
-### Keeping strokes consistent
+Keeping strokes consistent
+
 ![example_6_9_keeping_strokes_consistent]()
 
-### Isolating transformations
+Isolating transformations
+
 ![example_6_10_isolating_transformations]()
 
-### Robot 4: Translate, rotate, scale
+Robot 4: Translate, rotate, scale
+
 ![example_6_11_robot_4_translate_rotate_scale]()
 
 
+<br/>
 
+**Experiments**
 
-
-
-## Experiments
+<br/>

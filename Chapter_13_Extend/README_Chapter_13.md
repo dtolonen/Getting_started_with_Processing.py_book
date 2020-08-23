@@ -1,3 +1,4 @@
+
 ## Chapter 13 / Extend
 
 
@@ -19,24 +20,35 @@ A sine wave sounds smooth, a square wave is harsh, and a triangle wave is somewh
 </details>
 
 
+<br/>
+
+**Book examples**
 
 
-## Book examples
 
-### Draw to a PDF
+Draw to a PDF
+
 ![example_13_5_draw_to_a_pdf]()
 
-### Play a sample
+Play a sample
+
 ![example_13_1_play_a_sample]()
 
-### Listen to a microphone
+Listen to a microphone
+
 ![example_13_2_listen_to_a_microphone]()
 
-### Create a sine wave
+Create a sine wave
+
 ![example_13_3_create_a_sine_wave]()
 
-### Saving images
+Saving images
+
 ![example_13_4_saving_images]()
 
 
-## Experiments
+<br/>
+
+**Experiments**
+
+<br/>

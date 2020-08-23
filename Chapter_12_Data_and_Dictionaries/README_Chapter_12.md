@@ -1,4 +1,6 @@
+
 ## Chapter 12 / Data and Dictionaries
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -29,44 +31,59 @@
 </details> 
 
 
+<br/>
+
+**Book examples**
 
 
 
-## Book examples
+Keyboard keys as dictionary keys
 
-### Keyboard keys as dictionary keys
 ![example_12_1_keyboard_keys_as_dictionary_keys]()
 
-### The planets
+The planets
+
 ![example_12_2_the_planets]()
 
-### Read the data
+Read the data
+
 ![example_12_3_read_the_data]()
 
-### Draw the table
+Draw the table
+
 ![example_12_4_draw_the_table]()
 
-### 29,740 cities
+29,740 cities
+
 ![example_12_5_29_740_cities]()
 
-### Read a JSON file
+Read a JSON file
+
 ![example_12_6_read_a_JSON_file]()
 
-### Visualize data from a JSON file
+Visualize data from a JSON file
+
 ![example_12_7_visualize_data_from_a_JSON_file]()
 
-### Parsing the weather data
+Parsing the weather data
+
 ![example_12_8_parsing_the_weather_data]()
 
-### Chaining square brackets
+Chaining square brackets
+
 ![example_12_9_chaining_square_brackets]()
 
-### Robot 10: Data, pt.1 
+Robot 10: Data, pt.1 
+
 ![example_12_10_robot_10_data_pt1]()
 
-### Robot 10: Data, pt.2 
+Robot 10: Data, pt.2 
+
 ![example_12_10_robot_10_data_pt2]()
 
 
+<br/>
 
-## Experiments
+**Experiments**
+
+<br/>

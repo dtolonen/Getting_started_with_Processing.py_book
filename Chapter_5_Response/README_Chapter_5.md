@@ -1,4 +1,6 @@
+
 ## Chapter 5 / Response
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -28,82 +30,104 @@
 </details>
 
 
-## Book examples
+<br/>
+
+**Book examples**
 
 
-### Draw function
+
+Draw function
+
 ![example_5_1_draw_function ]()
 
-### The setup() function
+The setup() function
+
 ![example_5_2_the_setup___function]()
 
-### Global variables
+Global variables
+
 ![example_5_3_global_variables ]()
 
-### Track the mouse
+Track the mouse
+
 ![example_5_4_track_the_mouse]()
 
-### The dot follows you
+The dot follows you
+
 ![example_5_5_the_dot_follows_you]()
 
-### Draw continuously 
+Draw continuously 
+
 ![example_5_6_draw_continuosly]()
 
-### Set the thickness on the fly
+Set the thickness on the fly
+
 ![example_5_7_set_thickness_on_the_fly]()
 
-### Easing does it
+Easing does it
+
 ![example_5_8_easing_does_it]()
 
-### Smooth lines with easing
+Smooth lines with easing
+
 ![example_5_9_smooth_lines_with_easing]()
 
-### Click the mouse
+Click the mouse
+
 ![example_5_10_click_the_mouse]()
 
-### Detect when not clicked
+Detect when not clicked
+
 ![example_5_11_detect_when_not_clicked]()
 
-### Multiple mouse buttons
+Multiple mouse buttons
+
 ![example_5_12_multiple_mouse_buttons]()
 
-### Find the cursor
+Find the cursor
+
 ![example_5_13_find_the_cursor]()
 
-### The bounds of a circle
+The bounds of a circle
+
 ![example_5_14_the_bounds_of_a_circle]()
 
-### The bounds of a rectangle 
+The bounds of a rectangle 
+
 ![example_5_15_the_bounds_of_a_rectangle]()
 
-### Tap a key
+Tap a key
+
 ![example_5_16_tap_a_key]()
 
-### Draw some letters 
+Draw some letters 
+
 ![example_5_17_draw_some_letters]()
 
-### Check for specific keys
+Check for specific keys
+
 ![example_5_18_check_for_specific_keys]()
 
-### Move with arrow keys
+Move with arrow keys
+
 ![example_5_19_move_with_arrow_keys]()
 
-### Map values to a range
+Map values to a range
+
 ![example_5_20_map_values_to_a_range]()
 
-### Map with the map() function
+Map with the map() function
+
 ![example_5_21_map_with_the_map___function]()
 
-### Robot 3: response
+Robot 3: response
+
 ![example_5_22_robot_3_response]()
 
 
+<br/>
 
 
+**Experiments**
 
-
-
-
-
-
-## Experiments
+<br/>

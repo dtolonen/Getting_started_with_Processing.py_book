@@ -1,4 +1,6 @@
+
 ## Chapter 9 / Functions
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -13,39 +15,51 @@
 </details>
 
 
+<br/>
 
 ## Book examples
 
 
 
+Roll the dice
 
-### Roll the dice
 ![example_9_1_roll_the_dice]()
 
-### Another way to roll
+Another way to roll
+
 ![example_9_2_another_way_to_roll]()
 
-### Draw the owl
+Draw the owl
+
 ![example_9_3_draw_the_owl]()
 
-### Two's company
+Two's company
+
 ![example_9_4_two_s_company]()
 
-### An owl function
+An owl function
+
 ![example_9_5_an_owl_function]()
 
-### Increasing the surplus population
+Increasing the surplus population
+
 ![example_9_6_increasing_the_surplus_population]()
 
-### Owls of different sizes
+Owls of different sizes
+
 ![example_9_7_owls_of_different_sizes]()
 
-### Return a value
+Return a value
+
 ![example_9_8_return_a_value]()
 
-### Robot 7: Functions
+Robot 7: Functions
+
 ![example_9_9_robot_7_functions]()
 
 
+<br/>
 
-## Experiments
+**Experiments**
+
+<br/>

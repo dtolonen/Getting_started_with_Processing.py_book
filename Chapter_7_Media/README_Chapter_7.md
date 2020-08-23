@@ -1,4 +1,6 @@
+
 ## Chapter 7 / Media
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -15,51 +17,63 @@
 </details>
 
 
+<br/>
+
+**Book examples**
 
 
-## Book examples
 
+Load an image
 
-
-### Load an image
 ![example_7_1_load_an_image]()
 
-### Load more images
+Load more images
+
 ![example_7_2_load_more_images]()
 
-### Mousing around with an image
+Mousing around with an image
+
 ![example_7_3_mousing_around_with_an_image]()
 
-### Transparency with a GIF
+Transparency with a GIF
+
 ![example_7_4_transparency_with_a_gif]()
 
-### Transparency with a PNG
+Transparency with a PNG
+
 ![example_7_5_transparency_with_a_png]()
 
-### Drawing with fonts
+Drawing with fonts
+
 ![example_7_6_drawing_with_fonts]()
 
-### Draw a box
+Draw a box
+
 ![example_7_7_draw_a_box]()
 
-### Store text in a string
+Store text in a string
+
 ![example_7_8_store_text_in_a_string]()
 
-### Draw with shapes
+Draw with shapes
+
 ![example_7_9_draw_with_shapes]()
 
-### Scaling shapes
+Scaling shapes
+
 ![example_7_10_scaling_shapes]()
 
-### Creaing a new shape
+Creaing a new shape
+
 ![example_7_11_creating_a_new_shape]()
 
-### Robot 5: Media
+Robot 5: Media
+
 ![example_7_12_robot_5_media]()
 
 
+<br/>
 
+**Experiments**
 
-
-
-## Experiments
+<br/>

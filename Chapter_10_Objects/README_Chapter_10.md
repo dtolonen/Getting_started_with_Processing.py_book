@@ -1,4 +1,6 @@
+
 ## Chapter 10 / Objects
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -21,16 +23,24 @@
 </details>
 
 
-## Book examples
+<br/>
 
-###
+**Book examples**
+
+
+
+Make an object
 ![example_10_1_make_an_object]()
 
-###
+Make multiple objects
 ![example_10_2_make_multiple_objects]()
 
-###
+Robot 8: Objects
 ![example_10_3_robot_8_objects]()
 
 
-## Experiments
+<br/>
+
+**Experiments**
+
+<br/>

@@ -1,4 +1,6 @@
+
 ## Chapter 11 / Lists
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -37,48 +39,66 @@ def draw():
 </details>
 
 
+<br/>
 
-## Book examples
+**Book examples**
 
-### Many variables
+
+
+Many variables
+
 ![example_11_1_many_variables]()
 
-### Too many variables
+Too many variables
+
 ![example_11_2_too_many_variables]()
 
-### Lists, not variables
+Lists, not variables
+
 ![example_11_3_lists_not_variables]()
 
-### Declare and append to a list
+Declare and append to a list
+
 ![example_11_4_declare_and_append_to_a_list]()
 
-### Compact list initialization
+Compact list initialization
+
 ![example_11_5_compact_list_initialization]()
 
-### Revisiting the first exmaple
+Revisiting the first exmaple
+
 ![example_11_6_revisiting_the_first_example]()
 
-### Filling a list in for a loop
+Filling a list in for a loop
+
 ![example_11_7_filling_a_list_in_for_a_loop]()
 
-### Example 11_8 (no such example in book)
+Example 11_8 (no such example in book)
 
 
-### Track mouse movements 
+Track mouse movements 
+
 ![example_11_9_track_mouse_movements]()
 
-### Managing many objects
+Managing many objects
+
 ![example_11_10_managing_many_objects]()
 
-### A new way to manage objects
+A new way to manage objects
+
 ![example_11_11_a_new_way_to_manage_objects]()
 
-### Sequence of images
+Sequence of images
+
 ![example_11_12_sequence_of_images]()
 
-### Robot 9: Lists
+Robot 9: Lists
+
 ![example_11_13_robot_9_lists]()
 
 
+<br/>
 
-## Experiments
+**Experiments**
+
+<br/>

@@ -1,4 +1,6 @@
+
 ## Chapter 8 / Motion
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -17,62 +19,80 @@
 </details>
 
 
-
+<br/>
 
 ## Book examples
 
 
 
-### See the framerate
+See the framerate
+
 ![example_8_1_see_the_framerate]()
 
-### Set the framerate
+Set the framerate
+
 ![example_8_2_set_the_framerate]()
 
-### Move a shape
+Move a shape
+
 ![example_8_3_move_a_shape]()
 
-### Wrap around
+Wrap around
+
 ![example_8_4_wrap_around]()
 
-### Bounce off the wall
+Bounce off the wall
+
 ![example_8_5_bounce_off_the_wall]()
 
-### Calculate tween positions
+Calculate tween positions
+
 ![example_8_6_calculate_tween_positions]()
 
-### Generate random values
+Generate random values
+
 ![example_8_7_generate_random_values]()
 
-### Draw randomly
+Draw randomly
+
 ![example_8_8_draw_randomly]()
 
-### Move shapes randomly
+Move shapes randomly
+
 ![example_8_9_move_shapes_randomly]()
 
-### Time passes
+Time passes
+
 ![example_8_10_time_passes]()
 
-### Triggering timed events
+Triggering timed events
+
 ![example_8_11_triggering_timed_events]()
 
-### Sine wave values
+Sine wave values
+
 ![example_8_12_sine_wave_values]()
 
-### Sine wave values
+Sine wave values
+
 ![example_8_13_sine_value_movement]()
 
-### Circular motion
+Circular motion
+
 ![example_8_14_circular_motion]()
 
-### Spirals
+Spirals
+
 ![example_8_15_spirals]()
 
-### Robot 6: Motion
+Robot 6: Motion
+
 ![example_8_16_robot_6_motion]()
 
 
 
+<br/>
 
+**Experiments**
 
-## Experiments
+<br/>
