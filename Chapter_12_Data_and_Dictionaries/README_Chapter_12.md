@@ -39,47 +39,47 @@
 
 Keyboard keys as dictionary keys
 
-![example_12_1_keyboard_keys_as_dictionary_keys]()
+![example_12_1_keyboard_keys_as_dictionary_keys](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_1_keyboard_keys_as_dictionary_keys/frames/SaveFrame_12_1_tog.png)
 
 The planets
 
-![example_12_2_the_planets]()
+![example_12_2_the_planets](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_2_the_planets/frames/example_12_2_the_planets.png)
 
 Read the data
 
-![example_12_3_read_the_data]()
+![example_12_3_read_the_data](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_3_read_the_data/frames/example_12_3_read_the_data.png)
 
 Draw the table
 
-![example_12_4_draw_the_table]()
+![example_12_4_draw_the_table](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_4_draw_the_table/frames/SaveFrame_12_4_tog.png)
 
 29,740 cities
 
-![example_12_5_29_740_cities]()
+![example_12_5_29_740_cities](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_5_29_740_cities/frames/SaveFrame_12_5_tog.png)
 
 Read a JSON file
 
-![example_12_6_read_a_JSON_file]()
+![example_12_6_read_a_JSON_file](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_6_read_a_JSON_file/frames/example_12_6_read_a_JSON_file.png)
 
 Visualize data from a JSON file
 
-![example_12_7_visualize_data_from_a_JSON_file]()
+![example_12_7_visualize_data_from_a_JSON_file](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_7_visualize_data_from_a_JSON_file/frames/example_12_7_visualize_data_from_a_JSON_file.png)
 
 Parsing the weather data
 
-![example_12_8_parsing_the_weather_data]()
+![example_12_8_parsing_the_weather_data](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_8_parsing_the_weather_data/frames/example_12_8_parsing_the_weather_data.png)
 
 Chaining square brackets
 
-![example_12_9_chaining_square_brackets]()
+![example_12_9_chaining_square_brackets](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_9_chaining_square_brackets/frames/example_12_9_chaining_square_brackets.png)
 
 Robot 10: Data, pt.1 
 
-![example_12_10_robot_10_data_pt1]()
+![example_12_10_robot_10_data_pt1](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_10_robot_10_data_pt2/frames/example_12_10_robot_10_data_pt2.png)
 
 Robot 10: Data, pt.2 
 
-![example_12_10_robot_10_data_pt2]()
+![example_12_10_robot_10_data_pt2](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_10_robot_10_data_pt2/frames/example_12_10_robot_10_data_pt2.png)
 
 
 <br/>
