@@ -24,12 +24,14 @@ def draw():
 
 <br/>
 **Book examples**
+<br/>
 
 Make circles
 
 ![example_2_1_make_circles](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_2_Starting_to_Code/example_2_1_make_circles/frames/SaveExample-0218.png)
 
 Draw ellipse
+
 ![example_2_2_draw_ellipse](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_2_Starting_to_Code/example_2_2_draw_ellipse/frames/SaveExample-0000.png)
 
 
