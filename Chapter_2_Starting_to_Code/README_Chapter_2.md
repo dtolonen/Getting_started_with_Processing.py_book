@@ -26,7 +26,7 @@ def draw():
 
 **Book examples**
 
-<br/>
+
 
 Make circles
 
@@ -37,7 +37,7 @@ Draw ellipse
 ![example_2_2_draw_ellipse](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_2_Starting_to_Code/example_2_2_draw_ellipse/frames/SaveExample-0000.png)
 
 
-
+<br/>
 
 **Experiments**
 
