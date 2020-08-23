@@ -28,7 +28,7 @@ def draw():
 
 
 
-### Make circles
+Make circles
 
 ![example_2_1_make_circles](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_2_Starting_to_Code/example_2_1_make_circles/frames/SaveExample-0218.png)
 
