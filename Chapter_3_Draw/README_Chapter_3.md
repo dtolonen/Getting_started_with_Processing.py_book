@@ -35,7 +35,7 @@
 
 <br/>
 
-## Book examples
+**Book examples**
 
 
 
@@ -130,6 +130,6 @@ Robot 1: Draw
 
 <br/>
 
-## Experiments
+**Experiments**
 
 <br/>
