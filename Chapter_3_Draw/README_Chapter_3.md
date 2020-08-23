@@ -1,4 +1,6 @@
+
 ## Chapter 3 / Draw
+
 
 <details>
 <summary markdown="span">Click here for notes and new functions found in this chapter</summary>
@@ -31,76 +33,103 @@
 </details>
 
 
+<br/>
+
 ## Book examples
 
-### Draw a point
+
+
+Draw a point
+
 ![example_3_2_draw_a_point]()
 
-### Draw a line
+Draw a line
+
 ![example_3_3_draw_a_line]()
 
-### Draw basic shapes
+Draw basic shapes
+
 ![example_3_4_draw_basic_shapes]()
 
-### Draw a rectangle
+Draw a rectangle
+
 ![example_3_5_draw_rectangle]()
 
-### Draw an ellipse
+Draw an ellipse
+
 ![example_3_6_draw_ellipse]()
 
-### Draw part of an ellipse
+Draw part of an ellipse
+
 ![example_3_7_draw_part_of_ellipse]()
 
-### Draw with degrees
+Draw with degrees
+
 ![example_3_8_draw_with_degrees]()
 
-### Control the drawing order
+Control the drawing order
+
 ![example_3_9_control_drawing_order]()
 
-### Control the drawing order in reverse
+Control the drawing order in reverse
+
 ![example_3_10_contol_drawing_order_reverse]()
 
-### Set the stroke weight 
+Set the stroke weight 
+
 ![example_3_11_set_stroke_weight]()
 
-### Set the stroke caps
+Set the stroke caps
+
 ![example_3_12_set_stroke_caps]()
 
-### Set the stroke joins
+Set the stroke joins
+
 ![example_3_13_set_stroke_joins]()
 
-### On the corner
+On the corner
+
 ![example_3_14_on_the_corner]()
 
-### Paint with grays
+Paint with grays
+
 ![example_3_15_paint_with_grays]()
 
-### Control the fill and stroke
+Control the fill and stroke
+
 ![example_3_16_control_fill_and_stroke]()
 
-### Draw with colour
+Draw with colour
+
 ![example_3_17_draw_with_colour]()
 
-### Set transparency
+Set transparency
+
 ![example_3_18_set_transparency]()
 
-### Draw an arrow
+Draw an arrow
+
 ![example_3_19_draw_an_arrow]()
 
-### Close the gap
+Close the gap
+
 ![example_3_20_close_the_gap]()
 
-### Create some creatures
+Create some creatures
+
 ![example_3_21_create_some_creatures]()
 
-### Comments
+Comments
+
 ![example_3_22_comments]()
 
-### Robot 1: Draw
+Robot 1: Draw
+
 ![example_3_23_robot1_draw]()
 
 
+<br/>
 
 ## Experiments
 
-
+<br/>
