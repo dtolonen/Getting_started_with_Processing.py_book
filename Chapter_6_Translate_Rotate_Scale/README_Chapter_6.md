@@ -28,47 +28,47 @@
 
 Translating location
 
-![example_6_1_translating_location]()
+![example_6_1_translating_location](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_1_translating_location/frames/SaveExample-0113.png)
 
 Multiple translations
 
-![example_6_2_multiple_translations]()
+![example_6_2_multiple_translations](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_2_multiple_translations/frames/SaveExample-0063.png)
 
 Corner rotation
 
-![example_6_3_corner_rotation]()
+![example_6_3_corner_rotation](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_3_corner_rotation/frames/SaveExample_6_3_tog.png)
 
 Center rotation
 
-![example_6_4_center_rotation]()
+![example_6_4_center_rotation](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_4_center_rotation/frames/SaveExample_6_4_tog.png)
 
 Translation, then rotation 
 
-![example_6_5_translation_then_rotation]()
+![example_6_5_translation_then_rotation](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_5_translation_then_rotation/frames/SaveExample-0095.png)
 
 Rotation, then translation
 
-![example_6_6_rotation_then_translation]()
+![example_6_6_rotation_then_translation](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_6_rotation_then_translation/frames/SaveExample_6_6_tog.png)
 
 An articulating arm
 
-![example_6_7_an_articulating_arm]()
+![example_6_7_an_articulating_arm](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_7_an_articulating_arm/frames/SaveExample-0158.png)
 
 Scaling
 
-![example_6_8_scaling]()
+![example_6_8_scaling](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_8_scaling/frames/SaveExample-0109.png)
 
 Keeping strokes consistent
 
-![example_6_9_keeping_strokes_consistent]()
+![example_6_9_keeping_strokes_consistent](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_9_keeping_strokes_consistent/frames/SaveExample_6_9_tog.png)
 
 Isolating transformations
 
-![example_6_10_isolating_transformations]()
+![example_6_10_isolating_transformations](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_10_isolating_transformations/frames/SaveExample_6_10_tog.png)
 
 Robot 4: Translate, rotate, scale
 
-![example_6_11_robot_4_translate_rotate_scale]()
+![example_6_11_robot_4_translate_rotate_scale](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_6_Translate_Rotate_Scale/example_6_11_robot_4_translate_rotate_scale/frames/SaveExample-0040.png)
 
 
 <br/>
