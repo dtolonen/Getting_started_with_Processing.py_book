@@ -75,7 +75,7 @@ Chaining square brackets
 
 Robot 10: Data, pt.1 
 
-![example_12_10_robot_10_data_pt1](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_10_robot_10_data_pt2/frames/example_12_10_robot_10_data_pt2.png)
+![example_12_10_robot_10_data_pt1](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_12_Data_and_Dictionaries/example_12_10_robot_10_data_pt1/frames/example_12_10_robot_10_data_pt1.png)
 
 Robot 10: Data, pt.2 
 
