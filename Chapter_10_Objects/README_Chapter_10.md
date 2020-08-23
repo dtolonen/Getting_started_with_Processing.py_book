@@ -30,12 +30,15 @@
 
 
 Make an object
+
 ![example_10_1_make_an_object](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_10_Objects/example_10_1_make_an_object/frames/SaveExample_10_1_tog.png)
 
 Make multiple objects
+
 ![example_10_2_make_multiple_objects](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_10_Objects/example_10_2_make_multiple_objects/frames/SaveExample_10_2_tog.png)
 
 Robot 8: Objects
+
 ![example_10_3_robot_8_objects](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_10_Objects/example_10_3_robot_8_objects/frames/example_10_3_robot_8_objects_1.png)
 
 
