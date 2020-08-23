@@ -4,7 +4,7 @@
 <img src="https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/getting_started_with_processing.py.png" width="30%">
 
 
-- Please see each chapter's README.md file for examples.
+- Please see each chapter's README.md file for images.
 
 - Read the book: [Getting Started with Processing.py](https://www.makershed.com/products/getting-started-with-processing-py-pdf)
 
