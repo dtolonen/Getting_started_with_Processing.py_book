@@ -1,5 +1,5 @@
 font = None
-quote = "That’s one small step for man..."
+quote = "That's one small step for man..."
 
 def setup():
     global font

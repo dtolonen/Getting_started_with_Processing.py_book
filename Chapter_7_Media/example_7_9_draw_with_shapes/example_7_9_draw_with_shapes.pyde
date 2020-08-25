@@ -1,15 +1,13 @@
-font = None
-
-quote = "That’s one small step for man..."
+network = None
 
 def setup():
-    global font
+    global network
     size(480, 120)
-    font = createFont("SourceCodePro-Regular.ttf", 24) 
-    textFont(font)
-    
+    network = loadShape("network.svg")
+
 def draw():
-    background(102)
-    text(quote, 26, 24, 240, 100)
+    background(0)
+    shape(network, 30, 10)
+    shape(network, 180, 10, 280, 280)
     
     saveFrame("frames/SaveExample-####.png")

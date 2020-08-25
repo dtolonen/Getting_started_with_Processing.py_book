@@ -8,6 +8,6 @@ def setup():
 
 def draw():
     background(102)
-    text("That’s one small step for man...", 26, 24, 240, 100)
+    text("That's one small step for man...", 26, 24, 240, 100)
     
     saveFrame("frames/SaveExample-####.png")
