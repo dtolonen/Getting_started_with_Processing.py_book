@@ -45,19 +45,19 @@ Transparency with a PNG
 
 Drawing with fonts
 
-![example_7_6_drawing_with_fonts](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_6_drawing_with_fonts/frames/SaveExample-0039.png)
+![example_7_6_drawing_with_fonts](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_6_drawing_with_fonts/frames/SaveExample-0001.png)
 
 Draw a box
 
-![example_7_7_draw_a_box](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_7_draw_a_box/frames/SaveExample-0152.png)
+![example_7_7_draw_a_box](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_7_draw_a_box/frames/SaveExample-0001.png)
 
 Store text in a string
 
-![example_7_8_store_text_in_a_string](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_8_store_text_in_a_string/frames/SaveExample-0056.png)
+![example_7_8_store_text_in_a_string](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_8_store_text_in_a_string/frames/SaveExample-0001.png)
 
 Draw with shapes
 
-![example_7_9_draw_with_shapes](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_9_draw_with_shapes/frames/SaveExample-0200.png)
+![example_7_9_draw_with_shapes](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_9_draw_with_shapes/frames/SaveExample-0001.png)
 
 Scaling shapes
 
