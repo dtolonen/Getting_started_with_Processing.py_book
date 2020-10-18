@@ -6,6 +6,8 @@
 
 ### Please see each chapter's README.md file for images (below) and the Github repository folders for code (above).
 
+### #workinprogress
+
 - [Chapter 2](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_2_Starting_to_Code/README_Chapter_2.md)
 - [Chapter 3](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_3_Draw/README_Chapter_3.md)
 - [Chapter 4](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_4_Variables/README_Chapter_4.md)
