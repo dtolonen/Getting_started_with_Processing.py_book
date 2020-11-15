@@ -8,7 +8,7 @@
 
 #### #workinprogress
 
-- [Chapter 2 Starting to Code](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_2_Starting_to_Code/README_Chapter_2.md)
+- [Chapter 2 - Starting to Code](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_2_Starting_to_Code/README_Chapter_2.md)
 - [Chapter 3](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_3_Draw/README_Chapter_3.md)
 - [Chapter 4](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_4_Variables/README_Chapter_4.md)
 - [Chapter 5](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_5_Response/README_Chapter_5.md)
