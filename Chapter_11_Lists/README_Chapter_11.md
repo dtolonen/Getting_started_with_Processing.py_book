@@ -65,7 +65,7 @@ Compact list initialization
 
 ![example_11_5_compact_list_initialization](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_5_compact_list_initialization/frames/example_11_5_compact_list_initialization.png)
 
-Revisiting the first exmaple
+Revisiting the first example
 
 ![example_11_6_revisiting_the_first_example](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_11_Lists/example_11_5_compact_list_initialization/frames/example_11_5_compact_list_initialization.png)
 
