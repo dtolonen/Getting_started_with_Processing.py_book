@@ -63,7 +63,7 @@ Scaling shapes
 
 ![example_7_10_scaling_shapes](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_10_scaling_shapes/frames/SaveExample_7_10_tog.png)
 
-Creaing a new shape
+Creating a new shape
 
 ![example_7_11_creating_a_new_shape](https://github.com/dtolonen/Getting_started_with_Processing.py_book/blob/master/Chapter_7_Media/example_7_11_creating_a_new_shape/frames/SaveExample-0138.png)
 
